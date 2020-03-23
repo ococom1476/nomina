@@ -31,3 +31,17 @@
 
 en:
   hello: "Hello world"
+  resource_not_found: "resource not found"
+  activerecord:
+    errors:
+      models:
+        payroll_invoice:
+          attributes:
+            employee:
+              inactive_contract: "Inactive contract"
+        incidence:
+          attributes:
+            start_date:
+              invalid: "is invalid, expected format: YYYY-MM-DD"
+            end_date:
+              invalid: "is invalid, expected format: YYYY-MM-DD"

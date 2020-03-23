@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  gross_salary: 9.99
+  active: 
+
+two:
+  employee: two
+  gross_salary: 9.99
+  active: 
